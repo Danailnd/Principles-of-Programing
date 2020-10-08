@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch 2 Age after 10", "ConsoleApp1\Ch 2 Age after 10.csproj", "{D49BE221-D7A5-47F8-BFEC-B4C0862597D5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch 2 Age after 10", "ConsoleApp1\Ch 2 Age after 10.csproj", "{D49BE221-D7A5-47F8-BFEC-B4C0862597D5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch 2 Calculating Area for Circle, Rectangle or Square", "Ch 2 Calculating Area for Circle, Rectangle or Square\Ch 2 Calculating Area for Circle, Rectangle or Square.csproj", "{5CB2611F-B70F-40E1-B605-6BAD17124506}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch 2 Calculating Area for Circle, Rectangle or Square", "Ch 2 Calculating Area for Circle, Rectangle or Square\Ch 2 Calculating Area for Circle, Rectangle or Square.csproj", "{5CB2611F-B70F-40E1-B605-6BAD17124506}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch2 Current Dates", "Ch2 Current Dates\Ch2 Current Dates.csproj", "{017C89F1-089B-4962-BFB6-1866167EF8E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch2 Current Dates", "Ch2 Current Dates\Ch2 Current Dates.csproj", "{017C89F1-089B-4962-BFB6-1866167EF8E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch 2 Future Birthday", "Ch 2 Future Birthday\Ch 2 Future Birthday.csproj", "{FFEE03F8-6363-4AFD-8B1D-737324C40084}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{017C89F1-089B-4962-BFB6-1866167EF8E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{017C89F1-089B-4962-BFB6-1866167EF8E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{017C89F1-089B-4962-BFB6-1866167EF8E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFEE03F8-6363-4AFD-8B1D-737324C40084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFEE03F8-6363-4AFD-8B1D-737324C40084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFEE03F8-6363-4AFD-8B1D-737324C40084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFEE03F8-6363-4AFD-8B1D-737324C40084}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
